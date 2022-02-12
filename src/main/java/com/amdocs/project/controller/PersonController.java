@@ -10,6 +10,6 @@ public class PersonController {
 	
 	@GetMapping
 	public String getBook() {
-		return "Salve Corno";
+		return "API Test!";
 	}
 }
