@@ -1,4 +1,4 @@
-package com.amdocs.project.dto;
+package com.amdocs.project.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
